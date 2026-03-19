@@ -8,7 +8,17 @@ APPARATUS: - LVDT kit, Multimeter
 THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
 DIAGRAM:
-CIRCUIT DIAGRAM
+
+<img width="1330" height="740" alt="image" src="https://github.com/user-attachments/assets/9e5ae1e7-fbc1-47be-9cd3-5099b18a6c0d" />
+
+CIRCUIT DIAGRAM:
+
+
+<img width="1510" height="1402" alt="image" src="https://github.com/user-attachments/assets/e79179d8-9e63-4130-8569-92088f32bcff" />
+
+<img width="1414" height="1600" alt="image" src="https://github.com/user-attachments/assets/a58403da-b549-4531-94ac-0b8baaadbd20" />
+
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -19,7 +29,14 @@ I. Connect the multimeter at the output of kit..
 
 OBSERVATION TABLE
 
-PRECAUTION: -
+
+<img width="1382" height="1060" alt="image" src="https://github.com/user-attachments/assets/58bb9235-361d-4350-bc52-ffcf38b732f4" />
+
+<img width="1462" height="760" alt="image" src="https://github.com/user-attachments/assets/c15ebafc-c701-4255-9221-3d017872106f" />
+
+
+PRECAUTION: 
+
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
 3. To get the good performance from the kit, main room temperature.
