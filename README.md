@@ -9,14 +9,14 @@ THEORY: - LVDT is basically a mutual inductance type transformer with variable c
 
 DIAGRAM:
 
-<img width="1330" height="740" alt="image" src="https://github.com/user-attachments/assets/9e5ae1e7-fbc1-47be-9cd3-5099b18a6c0d" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9e5ae1e7-fbc1-47be-9cd3-5099b18a6c0d" />
 
 CIRCUIT DIAGRAM:
 
 
-<img width="1510" height="1402" alt="image" src="https://github.com/user-attachments/assets/e79179d8-9e63-4130-8569-92088f32bcff" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/e79179d8-9e63-4130-8569-92088f32bcff" />
 
-<img width="1414" height="1600" alt="image" src="https://github.com/user-attachments/assets/a58403da-b549-4531-94ac-0b8baaadbd20" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/a58403da-b549-4531-94ac-0b8baaadbd20" />
 
 
 PROCEDURE: -
@@ -30,9 +30,9 @@ I. Connect the multimeter at the output of kit..
 OBSERVATION TABLE
 
 
-<img width="1382" height="1060" alt="image" src="https://github.com/user-attachments/assets/58bb9235-361d-4350-bc52-ffcf38b732f4" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/58bb9235-361d-4350-bc52-ffcf38b732f4" />
 
-<img width="1462" height="760" alt="image" src="https://github.com/user-attachments/assets/c15ebafc-c701-4255-9221-3d017872106f" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/c15ebafc-c701-4255-9221-3d017872106f" />
 
 
 PRECAUTION: 
