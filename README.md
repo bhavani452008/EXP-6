@@ -14,9 +14,9 @@ DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/e79179d8-9e63-4130-8569-92088f32bcff" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/e79179d8-9e63-4130-8569-92088f32bcff" />
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a58403da-b549-4531-94ac-0b8baaadbd20" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/a58403da-b549-4531-94ac-0b8baaadbd20" />
 
 
 PROCEDURE: -
@@ -30,9 +30,9 @@ I. Connect the multimeter at the output of kit..
 OBSERVATION TABLE
 
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/58bb9235-361d-4350-bc52-ffcf38b732f4" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/58bb9235-361d-4350-bc52-ffcf38b732f4" />
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c15ebafc-c701-4255-9221-3d017872106f" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c15ebafc-c701-4255-9221-3d017872106f" />
 
 
 PRECAUTION: 
